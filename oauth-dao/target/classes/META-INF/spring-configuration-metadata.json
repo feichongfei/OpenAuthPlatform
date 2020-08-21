@@ -1,0 +1,24 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "oauth.config.MybatisPlusConfig",
+      "name": "oauth.datasource.db1",
+      "sourceMethod": "public javax.sql.DataSource dataSource1() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "oauth.config.MybatisPlusConfig",
+      "name": "oauth.datasource.db2",
+      "sourceMethod": "public javax.sql.DataSource dataSource2() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "oauth.config.MybatisPlusConfig",
+      "name": "oauth.datasource.db3",
+      "sourceMethod": "public javax.sql.DataSource dataSource3() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
